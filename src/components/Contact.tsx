@@ -19,7 +19,7 @@ export default function Contact() {
         e.preventDefault();
 
         // Ganti dengan nomor WhatsApp Anda (format: 628xxx)
-        const phoneNumber = "6282337722490";
+        const phoneNumber = "6283839976681";
 
         const text = `Halo, saya ${formData.name} (${formData.email}).\n\n${formData.message}`;
         const encodedText = encodeURIComponent(text);
