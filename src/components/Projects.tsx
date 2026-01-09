@@ -31,6 +31,15 @@ const projects = [
         link: "#",
         image: "/portfolio.png",
     },
+    {
+        id: 4,
+        title: "Merah Putih Admin",
+        category: "Web Application",
+        description: "A comprehensive admin dashboard template featuring data visualization, project management, and analytics tools.",
+        color: "from-red-600 to-rose-500",
+        link: "https://sann.my.id/merahputih/admin/index.php",
+        image: "/merah-putih.png",
+    },
 ];
 
 const containerVariants: Variants = {
